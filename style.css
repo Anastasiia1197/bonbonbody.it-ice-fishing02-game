@@ -39,23 +39,23 @@
 :root {
 	interpolate-size: allow-keywords;
 
-	--background: linear-gradient(45deg, #0c0a09 0%, #1c1917 45%, #0c0a09 100%);
-	--header: linear-gradient(90deg, #1c1917e0, #2dd4bf, #0c0a09);
-	--btn-accent: linear-gradient(135deg, #fb923c, #ea580c);
-	--btn-inherit: #fff7ed;
-	--accent: linear-gradient(135deg, #f97316, #c2410c);
-	--sub-title: linear-gradient(-135deg, #2dd4bf30, #042f2e);
-	--gift: #f0fdfae1;
-	--gift-bg: rgba(251, 146, 60, 0.1);
-	--gift-btn: linear-gradient(135deg, #9a3412, #431407);
+	--background: linear-gradient(45deg, #0f172a 0%, #1e293b 45%, #0f172a 100%);
+	--header: linear-gradient(90deg, #1e293be0, #94a3b8, #0f172a);
+	--btn-accent: linear-gradient(135deg, #fbbf24, #b45309);
+	--btn-inherit: #fefce8;
+	--accent: linear-gradient(135deg, #facc15, #854d0e);
+	--sub-title: linear-gradient(-135deg, #94a3b820, #0f172a);
+	--gift: #fffbeb;
+	--gift-bg: rgba(250, 204, 21, 0.1);
+	--gift-btn: linear-gradient(135deg, #451a03, #0f172a);
 	--border-radius: 10px;
-	--container: #0c0a09;
-	--table: linear-gradient(180deg, #1c1917, #0c0a09);
-	--minus: #38bdf8;
-	--shadow: #fb923c50;
-	--second-shadow: #ea580c;
-	--text-shadow: #2dd4bf;
-	--list-bg: linear-gradient(90deg, rgba(45, 212, 191, 0.1), rgba(251, 146, 60, 0.1));
+	--container: #0f172a;
+	--table: linear-gradient(180deg, #1e293b, #0f172a);
+	--minus: #f43f5e; /* Малиновий акцент, як ти просив раніше */
+	--shadow: rgba(234, 179, 8, 0.3);
+	--second-shadow: #a16207;
+	--text-shadow: #94a3b8;
+	--list-bg: linear-gradient(90deg, rgba(148, 163, 184, 0.1), rgba(234, 179, 8, 0.1));
 }
 
 * {
